@@ -18,9 +18,10 @@ bio: My research interests include distributed robotics, mobile computing and pr
 
 # Interests to show in About widget
 interests:
-- Deep Learning
-- Finance, Management
-- Robotics
+- Computer Vision
+- NLP, MLOps
+- Content Creation
+- Anything and everything :P 
 
 # Education to show in About widget
 education:
@@ -52,6 +53,12 @@ social:
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/ayushtues/
+  - icon: medium
+    icon_pack: fab
+    link: https://ayushtues.medium.com/
+  - icon: youtube
+    icon_pack: fab
+    link: https://www.youtube.com/channel/UCGEWHZv8Gn10Lk56PzCeFMA
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -72,4 +79,8 @@ user_groups:
 - Visitors
 ---
 
-Hi! I am Ayush Mangal a CS Junior at Indian Institute of Technology Roorkee. I am currently interseted in Deep learning and am also exploring a lot of other stuff ranging from robotics, finance to pyschology. At IIT Roorkee, I am also a core member of a deep learning research centric discussion group called the [Vision and Language Group](https://vlgiitr.github.io/)
+Hi! I am a Data Scientist working in [Bing Travel](https://www.bing.com/travel), helping make their visual content make people go WoW :heart:. I am currently interested in using Deep learning to make awesome products. 
+
+During my undergrad I had the pleasure of working in various academic research labs and startups on topics ranging from Computer Vision, to NLP, finance, reinforcement learning. I was also involved in leading various undergrad research groups, focusing on Deep Learning, Core CS, Quantum Computing and Blockchain. 
+
+Professional stuff aside, I am a die-hard anime fan, an avid reader, wannabe Musician/Writer/Youtuber? lol (checkout my YT channel and Medium!) and a lifelong learner who's always up for a good conversation.
