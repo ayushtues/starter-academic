@@ -106,7 +106,8 @@ sections:
           tag: Diffusers
         - name: Paper Implementations
           tag: Paper Implementations
-
+        - name: LLM
+          tag: LLM
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
@@ -187,6 +188,8 @@ sections:
           tag: diffusion
         - name: RL
           tag: rl
+        - name: LLM
+          tag: LLM
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
